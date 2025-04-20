@@ -17,7 +17,7 @@ Understand and create a basic HTML page.
 
 | Tag       | Meaning                      |
 |-----------|------------------------------|
-| `<!DOCTYPE html>` | Declares HTML5         |
+| `<!DOCTYPE html>` | Declares HTML5       |
 | `<html>`  | Root element                 |
 | `<head>`  | Meta + title info            |
 | `<body>`  | Visible content of the page  |
